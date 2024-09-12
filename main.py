@@ -1,6 +1,3 @@
-pip install openai
-pip install yfinance pandas matplotlib streamlit requests python-dotenv
-
 import os
 import json
 import openai
